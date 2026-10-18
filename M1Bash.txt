@@ -1,3 +1,6 @@
+Jen Bevins
+M1 Bash 
+
 Script started on 2026-10-18 13:10:06-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
 [?2004h]0;jjaszews@PP-4217900a: ~[01;32mjjaszews@PP-4217900a[00m:[01;34m~[00m$ curl -L -o llog[K[K[Kog.tar.gz [7mhttps://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz
 [?2004l  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
